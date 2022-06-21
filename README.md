@@ -1,5 +1,7 @@
 [点击前往中文说明](README_chs.md)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fvtstojs%2Flee-aio-1.4.5)
+
 ## Attention
  - Anyone who can login into this app has full access to data in this app and Rclone remotes. Do not share with other ppl, and do not store sensitive information with this app.
 
